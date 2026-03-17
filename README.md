@@ -1,6 +1,5 @@
 
 # Facial Emotion Detection
-By: Shivam Sahu, Shivangi Mishra, Sona Maharjan
 
 # Project Description: 
 
